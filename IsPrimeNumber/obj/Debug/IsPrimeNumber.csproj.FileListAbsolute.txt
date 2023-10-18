@@ -1,0 +1,8 @@
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\bin\Debug\IsPrimeNumber.exe.config
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\bin\Debug\IsPrimeNumber.exe
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\bin\Debug\IsPrimeNumber.pdb
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\obj\Debug\IsPrimeNumber.csproj.AssemblyReference.cache
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\obj\Debug\IsPrimeNumber.csproj.SuggestedBindingRedirects.cache
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\obj\Debug\IsPrimeNumber.csproj.CoreCompileInputs.cache
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\obj\Debug\IsPrimeNumber.exe
+C:\OneDrive Server\OneDrive\Projects\C#\IsPrimeNumber\IsPrimeNumber\obj\Debug\IsPrimeNumber.pdb
